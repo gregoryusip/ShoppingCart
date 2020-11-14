@@ -1,0 +1,7 @@
+Perkenalkan nama saya Gregoryus Imannuel Perdana, mahasiswa dari Bina Nusantara (Binus) University.
+
+Dalam mengerjakan technical test berjudul "Shopping Cart", 
+Saya menggunakan bahasa pemrograman Java dengan tools Eclipse IDE 2020 untuk mengerjakan Project ini.
+Saya membuat 1 class untuk data-data / variable produk dan 1 class Cart sebagai main class. 
+
+Terima kasih.
